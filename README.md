@@ -22,8 +22,9 @@
 
 ## 📸 Screenshots
 
-> Add screenshots of:
 - Home page with floating elements
+- ![Screenshot 2025-06-27 235106](https://github.com/user-attachments/assets/d33b3126-39d8-4d68-b663-a575c575dbe7)
+
 - Collections with dress cards
 - Designer dashboard with CRUD buttons
 - Login/Register modals
